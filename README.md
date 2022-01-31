@@ -1,4 +1,17 @@
-### Hi there 👋
+
+
+<div align="center">  
+  <h3><b>🛠 Tech Stack 🛠</b></h3>
+  </br>
+  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/intelliJ-000000?style=flat-square&logo=intelliJ IDEA&logoColor=white"/></a>
+
+
+![Hyunsdb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsdb&show_icons=true&theme=nightowl)
+</div>
+
 
 <!--
 **Hyunsdb/Hyunsdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
