@@ -6,6 +6,7 @@
   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
 
 
 ![Hyunsdb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsdb&show_icons=true&theme=nightowl)
