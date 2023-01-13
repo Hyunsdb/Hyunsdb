@@ -14,7 +14,10 @@
 </br></br>
 
 
-![Hyunsdb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsdb&show_icons=true&theme=tokyonight)
+![Hyunsdb's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hyunsdb&&show_icons=true&theme=dark)
+
+
+
 
 </div>
 
